@@ -9,7 +9,6 @@ import { notFound } from "next/navigation";
 
 
 const workSans = Work_Sans({
-  variable: "--font-work-sans",
   subsets: ["latin"],
 });
 
