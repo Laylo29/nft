@@ -1,14 +1,11 @@
-import { Collections, Creators, Hero } from '@/modules'
-import React from 'react'
+import { Collections, Creators, Hero } from "@/modules";
 
-const page = () => {
+export default function Home() {
   return (
     <main>
       <Hero/>
       <Collections/>
       <Creators/>
     </main>
-  )
+  );
 }
-
-export default page

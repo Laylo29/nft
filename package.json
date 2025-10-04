@@ -1,5 +1,5 @@
 {
-  "name": "nnft",
+  "name": "5-dars",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,11 +9,8 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@heroui/button": "^2.2.26",
-    "@heroui/system": "^2.4.22",
-    "@heroui/theme": "^2.4.22",
-    "cookies-next": "^4.0.0",
-    "framer-motion": "^12.23.16",
+    "axios": "^1.12.2",
+    "cookies-next": "^6.1.0",
     "next": "15.5.3",
     "next-intl": "^4.3.9",
     "react": "19.1.0",
